@@ -5,5 +5,5 @@
 - Insightful & brilliant
 
 ### Interest
-- Data Science, full stack
+- Data Science, full stack development
 
