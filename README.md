@@ -5,9 +5,11 @@
 ## Multiveloper
 
 ### Who I am
+- Data Scientist, NLP developer
 - Leadership & high learning agility
 - Insightful & brilliant
 
 ### Interest
-- Full stack, Data Science, Android
+- Block Chain now
+- Data Science, Full stack, Android, IOS
 
