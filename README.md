@@ -45,5 +45,9 @@ I am interested in learning ML, DL, AI and recently Block Chain.
 
 
 ### Git Analytics
-<p><img height=“200” src=“https://github-readme-stats.vercel.app/api?username=mel-f-dev&theme=graywhite&show_icons=false&layout=” /></p>
-  <img height=“483” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=mel-f-dev&theme=graywhite&layout=” />
+
+<!-- <p><img height="200" src="https://github-readme-stats.vercel.app/api?username=mel-f-dev&theme=graywhite&show_icons=true&layout=" /></p>
+  <img height="483" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mel-f-dev&theme=graywhite&layout=" /> -->
+
+<p><img height="170" src="https://github-readme-stats.vercel.app/api?username=mel-f-dev&theme=graywhite&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mel-f-dev&theme=graywhite&layout=compact" /></p>
