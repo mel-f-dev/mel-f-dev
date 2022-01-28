@@ -15,7 +15,6 @@ I am interested in learning ML, DL, AI and recently Block Chain.
 - 🌱 I’m currently learning Recommendation System Development.
 - 👯 I love to share my experience and knowledge.
 - 👑 I’m community organizer of Women Who Code Seoul.
-- 💬 Ask me about anything.
 - 😄 Pronouns: She/Her.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I ❤️ writing with pencil✏️.
