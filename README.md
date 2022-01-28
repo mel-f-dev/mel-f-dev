@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mel-f-dev&show_icons=true&locale=en&layout=compact" alt="mel-f-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mel-f-dev&show_icons=true&locale=en" alt="mel-f-dev" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mel-f-dev&show_icons=true&locale=en" alt="mel-f-dev" /></p>
