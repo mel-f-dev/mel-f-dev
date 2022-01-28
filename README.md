@@ -5,16 +5,19 @@
 
 # Hi! I'm Seul-ki <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-### Who I am
-- Data Scientist, NLP developer
-- Multiveloper
-- Leadership & high learning agility
-- Insightful & brilliant
+### About me🧑:
+I am Data Scientist who are doing Natural Language Processing.<br/>
+I have leadership and high learning agility. <br/>
+I am interested in learning ML, DL, AI and recently Block Chain.
 
-
-### Interest
-- Block Chain now
-- Data Science, Full stack, Android, IOS
+- 🔭 I’m currently working on NLP Model Development.
+- 🌱 I’m currently learning Recommendation System Development.
+- 👯 I love to share my experience and knowledge.
+- 👑 I’m community organizer of Women Who Code Seoul.
+- 💬 Ask me about anything.
+- 😄 Pronouns: She/Her.
+- 💬 Ask me about anything.
+- ⚡ Fun fact: I ❤️ writing with pencil✏️.
 
 
 ### Languages and Tools
