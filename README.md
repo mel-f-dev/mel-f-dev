@@ -10,6 +10,7 @@ I am Data Scientist who are doing Natural Language Processing.<br/>
 I have leadership and high learning agility. <br/>
 I am interested in learning ML, DL, AI and recently Block Chain.
 
+
 - 🔭 I’m currently working on NLP Model Development.
 - 🌱 I’m currently learning Recommendation System Development.
 - 👯 I love to share my experience and knowledge.
@@ -18,6 +19,8 @@ I am interested in learning ML, DL, AI and recently Block Chain.
 - 😄 Pronouns: She/Her.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I ❤️ writing with pencil✏️.
+
+
 
 
 ### Languages and Tools
@@ -37,6 +40,7 @@ I am interested in learning ML, DL, AI and recently Block Chain.
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 <br/>
+
 
 
 
