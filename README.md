@@ -11,13 +11,13 @@ I have leadership and high learning agility. <br/>
 I am interested in learning ML, DL, AI and recently Block Chain.
 
 
-- 🔭 I’m currently working on NLP Model Development.
+- 🔭 I’m working on NLP Model Development.
 - 🌱 I’m currently learning Recommendation System Development.
 - 👯 I love to share my experience and knowledge.
-- 👑 I’m community organizer of Women Who Code Seoul.
+- 👑 I’m a community organizer of Women Who Code Seoul.
 - 😄 Pronouns: She/Her.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I ❤️ writing with pencil✏️.
+- ⚡ Fun fact: I prefer to write with a pencil rather than a keyboard.
 
 
 
