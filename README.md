@@ -6,9 +6,9 @@
 # Hi! I'm Seul-ki <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ### About me🧑:
-I am Data Scientist who are doing Natural Language Processing.<br/>
-I have leadership and high learning agility. <br/>
-I am interested in learning ML, DL, AI and recently Block Chain.
+I am Data Scientist on Natural Language Processing.<br/>
+Leadership & high learning agility. <br/>
+Interested in learning AI and recently Block Chain.
 
 
 - 🔭 I’m working on NLP Model Development.
