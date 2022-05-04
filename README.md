@@ -12,12 +12,12 @@ I am interested in learning ML, DL, AI and recently Block Chain.
 
 
 - 🔭 I’m working on NLP Model Development.
-- 🌱 I’m currently learning Recommendation System Development.
-- 👯 I love to share my experience and knowledge.
-- 👑 I’m a community organizer of Women Who Code Seoul.
+- 🌱 Currently learning Recommendation System Development.
+- 👯 love to share my experience and knowledge.
+- 👑 Evangelists of Women Who Code Seoul.
 - 😄 Pronouns: She/Her.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I prefer to write with a pencil rather than a keyboard.
+- ⚡ Fun fact: I love pencil more than keyboard.
 
 
 
