@@ -25,20 +25,15 @@ Interested in learning AI and recently Block Chain.
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pandas](https://shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Numpy](https://shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
 ![Pytorch](https://shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
-![Tensorflow](https://shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
 ![Jupyter](https://shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![AmazonAWS](https://shields.io/badge/-AmazonAWS-05122A?style=flat&logo=amazonaws)&nbsp;
 ![MongoDB](https://shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-<br/>
+
 
 
 
