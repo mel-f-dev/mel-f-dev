@@ -3,7 +3,7 @@
 <!-- </div> -->
 
 
-# Hi! I'm Seul-ki 👋
+# Hi! I'm Sun-woo 👋
 
 ### About me🧑:
 I am Data Scientist on Natural Language Processing.<br/>
