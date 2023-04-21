@@ -12,7 +12,7 @@ Interested in learning AI and recently Block Chain.
 
 
 - 🔭 I’m working on NLP Model Development.
-- 🌱 Currently learning Recommendation System Development.
+- 🌱 Currently deep dive into web3.
 - 👯 love to share my experience and knowledge.
 - 👑 Evangelists of Women Who Code Seoul.
 - 😄 Pronouns: She/Her.
