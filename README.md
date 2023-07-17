@@ -6,7 +6,7 @@
 # Hi! I'm Sun-woo 👋
 
 ### About me🧑:
-I am Data Scientist on Natural Language Processing.<br/>
+I am a jr.Prompt Engineer.<br/>
 Leadership & high learning agility. <br/>
 Interested in learning AI and recently Block Chain.
 
